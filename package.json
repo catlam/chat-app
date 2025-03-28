@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/catlam/chat-web/issues"
   },
-  "homepage": "https://github.com/catlam/chat-web#readme"
+  "homepage": "https://github.com/catlam/chat-web#readme",
+  "dependencies": {
+    "chat-app": "file:"
+  }
 }
